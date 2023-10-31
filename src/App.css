@@ -54,3 +54,17 @@
   padding: 0.5rem;
   width: 20rem;
 }
+.result .github-user .details {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.2rem;
+}
+
+.result .github-user .details IMG {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
